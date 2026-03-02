@@ -62,9 +62,7 @@
 
 ## 📊 SYSTEM ANALYTICS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codePR-26&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codePR-26&theme=chartreuse-dark&hide_border=true" />
