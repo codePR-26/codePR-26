@@ -6,7 +6,7 @@
 <h3 align="center">⚡ Full Stack Developer | Dark Mode Coder ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist;.NET+%7C+Java+%7C+Node.js;Hacker+Mindset+Activated" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist;.NET+%7C+Java+%7C+Node.js" />
 </p>
 
 <p align="center">
